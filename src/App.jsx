@@ -1,8 +1,10 @@
-
+import Layout from "./components/layout/Layout";
 
 function App() {
   return (
-   <h1>Pritasker</h1>
+    <Layout>
+      <h1>Let us get started</h1>
+    </Layout>
   );
 }
 
